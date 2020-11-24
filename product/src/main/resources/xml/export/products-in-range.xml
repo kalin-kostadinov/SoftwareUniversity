@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productsSold>
+    <product name="Nicole Martinez" price="519.06" seller="com.product.domain.entities.User@31e2232f"/>
+    <product name="Wanda Harris" price="554.91" seller="com.product.domain.entities.User@68565bc7"/>
+    <product name="Jennifer Riley" price="621.78" seller="com.product.domain.entities.User@43984213"/>
+    <product name="Paula Hill" price="700.92" seller="com.product.domain.entities.User@4a8e6e89"/>
+    <product name="Nicole Martinez" price="770.05" seller="com.product.domain.entities.User@31e2232f"/>
+    <product name="null Fox" price="932.18" seller="com.product.domain.entities.User@204abeff"/>
+    <product name="Benjamin Henry" price="953.99" seller="com.product.domain.entities.User@59fbb34"/>
+    <product name="Sandra Riley" price="995.98" seller="com.product.domain.entities.User@6419a0e1"/>
+</productsSold>
